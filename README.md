@@ -35,7 +35,8 @@ Curso 2017-18
 - [Morano Pérez, David](https://github.com/davidmoranoperez)
 - [Paniagua Gálvez, Amelia]( https://github.com/AmeliaPaniagua)
 - [Pérez Rueda, Sergio](https://github.com/sergioperezrueda)
-- [xMapaxee](https://github.com/xMapaxee)
+- [Quesada Palmero, Iván , xMapaxee ?](https://github.com/xMapaxee)
+- [Reyes Hutinel, Vicente Darío ,xMapaxee ?](https://github.com/xMapaxee)
 - [Sánchez Torrijo, Miguel](https://github.com/miguelst1)
 
 
