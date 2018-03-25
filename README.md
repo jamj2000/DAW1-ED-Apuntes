@@ -1,7 +1,6 @@
 # Apuntes del módulo Entornos de Desarrollo
 
 1º DAW  
-Curso 2017-18  
 Écija (Sevilla)  
 
 ![Entornos de desarrollo](img/entornosdesarrollo.png)
