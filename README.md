@@ -3,7 +3,7 @@
 1º DAW  
 Écija (Sevilla)  
 
-![Entornos de desarrollo](http://jamj2000.github.io/entornosdesarrollo/1/assets/entornosdesarrollo.png)
+![Entornos de desarrollo](http://jamj2000.github.io/entornosdesarrollo/entornosdesarrollo.png)
 
 
 ## Contenidos del módulo
