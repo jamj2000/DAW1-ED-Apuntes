@@ -1,7 +1,7 @@
 # Apuntes del módulo Entornos de Desarrollo
 
-1º DAW  
-Écija (Sevilla)  
+> 1º de Desarrollo de Aplicaciones Web/Multiplataforma  
+ 
 
 ![Entornos de desarrollo](http://jamj2000.github.io/entornosdesarrollo/entornosdesarrollo.png)
 
